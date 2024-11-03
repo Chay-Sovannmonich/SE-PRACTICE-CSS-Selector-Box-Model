@@ -1,0 +1,87 @@
+.profile-card {
+    width: 450px;
+    height: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 2px solid #E0E0E0;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    margin: 0;
+    padding: 5px 0;
+}
+
+.follower, .number {
+    display: flex;
+}
+
+#q{
+    margin-left: 70px;
+}
+
+#w{
+    margin-left: 80px;
+}
+
+#e{
+    margin-left: 50px;
+}
+
+#a{
+    margin-left: 60px;
+}
+
+#b{
+    margin-left: 78px;
+}
+
+#c{
+    margin-left: 80px;
+}
+
+.description {
+    font-size: 14px;
+    max-width: 300px;
+    margin: 10px auto;
+}
+
+.icon {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;  
+}
+
+.icon i {
+    font-size: 40px;
+    cursor: pointer;
+}
+
+button{
+    margin-top: 40px;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    background-color: rgb(4, 133, 240);
+    color: white;
+    cursor: pointer;
+}

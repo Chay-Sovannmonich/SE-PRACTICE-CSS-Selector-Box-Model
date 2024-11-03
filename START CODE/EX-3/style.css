@@ -1,0 +1,20 @@
+/* TODO */
+body{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+button{
+    border-radius: 15px;
+    background-color: #FF9AD5;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-style: none;
+    box-shadow: 0 0 0 4px rgba(230, 3, 199, 0.5);       
+}
+button:hover
+{
+    background-color: #9A4D8A;
+    box-shadow: 0 0 0 4px rgba(150, 27, 133, 0.6);
+}

@@ -1,0 +1,29 @@
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    background: grey;   
+    font-family: sans-serif;
+}
+div{
+    margin: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+      
+}
+button{
+    border-radius: 30px;
+    padding: 10px;
+    cursor: pointer;
+    border-style: none;
+}
+.b1{
+    background-color: #12c77e;
+}
+.b2{
+    background-color: orange;
+}
+.b3{
+    
+    background-color: purple;
+}
